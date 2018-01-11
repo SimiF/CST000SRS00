@@ -21,9 +21,9 @@ Instructions:
 - [x] 2. Build and run the program.  
 - [x] 3. Update this README.md file.  
 - [x] 4. Clean the project.  
-- [ ] 5. Commit your changes.  
-- [ ] 6. Push your changes to your repository. 
-- [ ] 7. Perform a Pull Request (PR). 
+- [x] 5. Commit your changes.  
+- [x] 6. Push your changes to your repository. 
+- [x] 7. Perform a Pull Request (PR). 
 
 Your submission must be 100% correct. 
 
